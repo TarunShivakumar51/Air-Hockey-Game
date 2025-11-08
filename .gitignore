@@ -1,0 +1,77 @@
+# =====================================
+# Unity Generated Folders (DO NOT TRACK)
+# =====================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Crash and debug logs
+*.stacktrace
+*.log
+
+# =====================================
+# Visual Studio / Rider / IDE Files
+# =====================================
+.vs/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.user
+*.userprefs
+*.booproj
+
+# =====================================
+# OS-specific files
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================
+# Unity Asset Store / Export files
+# =====================================
+*.unitypackage
+*.apk
+*.aab
+*.app
+*.ipa
+
+# =====================================
+# Builds and Executables
+# =====================================
+*.exe
+*.dll
+*.so
+*.dylib
+
+# =====================================
+# Backups and temporary files
+# =====================================
+*.bak
+*.tmp
+*.old
+*.swp
+
+# =====================================
+# Rider / Visual Studio Code caches
+# =====================================
+.vscode/
+.idea/
+*.code-workspace
+
+# =====================================
+# Git LFS (optional)
+# =====================================
+# If you use Git LFS for big assets (models, textures, etc.)
+# uncomment and track large file types:
+# *.psd
+# *.png
+# *.fbx
+# *.wav
