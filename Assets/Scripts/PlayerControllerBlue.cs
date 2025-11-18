@@ -13,8 +13,8 @@ public class PlayerControllerBlue : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float num = 1.94f;
-        float num2 = -3.072263f;
+        float num = 2.72f;
+        float num2 = -4.87f;
 
         if (transform.position.y > num)
         {
